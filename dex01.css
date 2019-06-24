@@ -1,0 +1,56 @@
+.q1{
+    height: 160px;
+    background: #FFFFFF;
+
+}
+.xia ul li{
+    display: inline-block;
+    padding: 0px 15px;
+}
+.tou{
+    height: 116px;
+    line-height: 116px;
+
+    position: relative;
+}
+.xia{
+    height: 38px;
+    line-height: 38px;
+    width: 100%;
+    background:#FF7000;
+    margin: 0px auto;
+}
+.w1{
+    widows: 100%;
+    margin-left: 260px;
+}
+.r1{
+    position: absolute;
+    top: 20px;
+    left: 300px;
+}
+a:hover{
+    color: #FF7000;
+    background: #fff;
+}
+.xia ul li .a1{
+    display: inline-block;
+    font-size: 15px;
+    height: 20px;
+    line-height: 20px;
+    padding: 5px 0px;
+    
+}
+.xia ul li .a2{
+    display: inline-block;
+    font-size: 10px;
+    height: 20px;
+    line-height: 20px;
+    padding: 5px 0px;
+    
+}
+.xia ul li .a3{
+    padding: 5px;
+    height: 20px;
+    line-height: 20px;
+}
